@@ -1,0 +1,1 @@
+We built an IoT-based automatic fire detection and notification system that identifies early signsof fire and immediately sends voice call alerts to mobile phones, enabling prompt action and enhancing safety.
